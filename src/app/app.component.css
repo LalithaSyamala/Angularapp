@@ -1,0 +1,10 @@
+.heading{
+    background-color: rgb(13, 13, 68);
+    color: cornsilk;
+    border-radius: 8px;
+    padding: 15px;
+    font-family: 'Abril Fatface', cursive;
+}
+.active{
+    font-weight: bold;
+}

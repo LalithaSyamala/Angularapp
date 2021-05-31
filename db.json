@@ -1,0 +1,212 @@
+{
+  "mobiles":[
+    {
+      "productTitle":"SAMSUNG",
+      "productImage":"https://ampro.in/wp-content/uploads/2019/09/samsung-a10s-green-4.jpg",
+      "productDesc":"The world's largest packaged food company says the new bars have 30 percent less sugar than a typical chocolate bar, helped by the use of Nestle's new ingredient, sugar that has been physically altered to be lighter and dissolve faster."
+    },
+    { 
+    "productTitle":"OPPO",
+    "productImage":"https://5.imimg.com/data5/DT/PU/GK/IOS-21921097/product-jpeg-500x500.png",
+    "productDesc":"Nestlé Munch is a chocolate bar made by Nestlé and primarily sold in India. It is a long chocolate bar filled with wafers.Dark chocolate with at least 70 per cent cocoa can help boost your metabolism, prevent insulin spike and make you feel satiated."
+    },
+    { 
+    "productTitle":"REDMI",
+    "productImage":"https://www.gizmochina.com/wp-content/uploads/2019/08/Xiaomi-Redmi-Note-8-Pro-2-500x500.jpg",
+    "productDesc":"The ban effectively is this: Because Hershey's has permission to manufacture and package its own version of Cadbury candies, albeit with a different recipe, the U.S. candy company did not want British importers to compete with their American-born-and-bred."
+    },
+    { 
+    "productTitle":"ONIDA",
+    "productImage":"https://s3.amazonaws.com/ruturajonida/products/678/product_listing/Front.jpg?1576826701",
+    "productDesc":"Kitkat in western countries is much more costly because of the ingredients and the other costs. For example Indian variant of the chocolate contain cocoa powder, whereas the western one contains cocoa butter. Cocoa butter brings a rich chocolaty taste and helps the chocolate melt at the body temperature"
+    },
+    { 
+    "productTitle":"PHILIPS",
+    "productImage":"https://images.philips.com/is/image/PhilipsConsumer/32PFL6357_V7-IMS-en_IN?$jpglarge$&wid=1250",
+    "productDesc":"Centre(Nougatine + Caramel) 68%* - Liquid glucose, Sugar, Invert Sugar, Hydrogenated vegetable Fat, Cocoa solids, Milk solids, Hydrolyzed vegetable protein, Edible salt, Emulsifier (471); Milk Chocolate 32%* - Sugar, Cocoa butter, Milk solids, Cocoa solids, Emulsifiers (442, 476) CONTAINS FLAVOUR "
+    },
+    { 
+    "productTitle":"LG",
+    "productImage":"https://www.lg.com/in/images/tvs/md06117716/gallery/01-1100-V01.jpg",
+    "productDesc":"Many studies have shown that dark chocolate can improve health and lower the risk of heart disease among other benefits like stabilising blood sugar, controlling appetite, helping to reduce cravings and thereby facilitating weight loss Studies show that dark chocolate may reduce cravings"
+    }
+  ],
+  "bikes":[
+    {
+      "productTitle": "YAMAHA",
+      "productImage": "https://media.zigcdn.com/media/model/2020/Feb/mt-15-bs6_360x240.jpg",
+      "productDesc": "The world's largest packaged food company says the new bars have 30 percent less sugar than a typical chocolate bar, helped by the use of Nestle's new ingredient, sugar that has been physically altered to be lighter and dissolve faster."
+    },
+    {
+      "productTitle": "HONDA",
+      "productImage": "https://media.zigcdn.com/media/model/2020/Feb/shine_360x240.jpg",
+      "productDesc": "Nestlé Munch is a chocolate bar made by Nestlé and primarily sold in India. It is a long chocolate bar filled with wafers.Dark chocolate with at least 70 per cent cocoa can help boost your metabolism, prevent insulin spike and make you feel satiated."
+    },
+    {
+      "productTitle": "Pulsar",
+      "productImage": "https://media.zigcdn.com/media/model/2020/Jun/bajaj-pulsar-150_360x240.jpg",
+      "productDesc": "The ban effectively is this: Because Hershey's has permission to manufacture and package its own version of Cadbury candies, albeit with a different recipe, the U.S. candy company did not want British importers to compete with their American-born-and-bred."
+    },
+    {
+      "productTitle": "BMW",
+      "productImage": "https://media.zigcdn.com/media/model/2020/Feb/s-100-rr_360x240.jpg",
+      "productDesc": "Kitkat in western countries is much more costly because of the ingredients and the other costs. For example Indian variant of the chocolate contain cocoa powder, whereas the western one contains cocoa butter. Cocoa butter brings a rich chocolaty taste and helps the chocolate melt at the body temperature"
+    },
+    {
+      "productTitle": "HERO",
+      "productImage": "https://static.autox.com/uploads/bikes/2017/05/1486030508-hero-hf-deluxe.jpg",
+      "productDesc": "Centre(Nougatine + Caramel) 68%* - Liquid glucose, Sugar, Invert Sugar, Hydrogenated vegetable Fat, Cocoa solids, Milk solids, Hydrolyzed vegetable protein, Edible salt, Emulsifier (471); Milk Chocolate 32%* - Sugar, Cocoa butter, Milk solids, Cocoa solids, Emulsifiers (442, 476) CONTAINS FLAVOUR "
+    },
+    {
+      "productTitle": "GLAMOUR",
+      "productImage": "https://imgd.aeplcdn.com/600x600/bw/models/hero-glamour-i3s-drum--bs-vi20200510005530.jpg",
+      "productDesc": "Many studies have shown that dark chocolate can improve health and lower the risk of heart disease among other benefits like stabilising blood sugar, controlling appetite, helping to reduce cravings and thereby facilitating weight loss Studies show that dark chocolate may reduce cravings"
+    }
+  ],
+  "telivisions":[
+    {
+      "productTitle": "SAMSUNG",
+      "productImage": "https://images.samsung.com/is/image/samsung/in-uhd-tv-tu8570-ua43tu8570uxxl-frontblack-226347267?$720_576_PNG$",
+      "productDesc": "The world's largest packaged food company says the new bars have 30 percent less sugar than a typical chocolate bar, helped by the use of Nestle's new ingredient, sugar that has been physically altered to be lighter and dissolve faster."
+    },
+    {
+      "productTitle": "PANASONIC",
+      "productImage": "https://www.sentinelassam.com/wp-content/uploads/2018/06/pannna-1.jpg",
+      "productDesc": "Nestlé Munch is a chocolate bar made by Nestlé and primarily sold in India. It is a long chocolate bar filled with wafers.Dark chocolate with at least 70 per cent cocoa can help boost your metabolism, prevent insulin spike and make you feel satiated."
+    },
+    {
+      "productTitle": "REDMI",
+      "productImage": "https://i.gadgets360cdn.com/products/televisions/large/1548153222_832_toshiba_40-inch-led-full-hd-tv-40ps20.jpg",
+      "productDesc": "The ban effectively is this: Because Hershey's has permission to manufacture and package its own version of Cadbury candies, albeit with a different recipe, the U.S. candy company did not want British importers to compete with their American-born-and-bred."
+    },
+    {
+      "productTitle": "SAMSUNG",
+      "productImage": "https://images.samsung.com/is/image/samsung/in-uhd-tv-tu8570-ua43tu8570uxxl-frontblack-226347267?$720_576_PNG$",
+      "productDesc": "The world's largest packaged food company says the new bars have 30 percent less sugar than a typical chocolate bar, helped by the use of Nestle's new ingredient, sugar that has been physically altered to be lighter and dissolve faster."
+    },
+    {
+      "productTitle": "PANASONIC",
+      "productImage": "https://www.sentinelassam.com/wp-content/uploads/2018/06/pannna-1.jpg",
+      "productDesc": "Nestlé Munch is a chocolate bar made by Nestlé and primarily sold in India. It is a long chocolate bar filled with wafers.Dark chocolate with at least 70 per cent cocoa can help boost your metabolism, prevent insulin spike and make you feel satiated."
+    },
+    {
+      "productTitle": "REDMI",
+      "productImage": "https://i.gadgets360cdn.com/products/televisions/large/1548153222_832_toshiba_40-inch-led-full-hd-tv-40ps20.jpg",
+      "productDesc": "The ban effectively is this: Because Hershey's has permission to manufacture and package its own version of Cadbury candies, albeit with a different recipe, the U.S. candy company did not want British importers to compete with their American-born-and-bred."
+    }
+  ],
+  "users":[
+    {
+      "id":1,
+      "email":"vashista@gmail.com",
+      "name":"Vashista",
+      "profile":"https://www.jhs.ac.in/images/arundhati-vasishth-jhs.jpg",
+      "address":{
+        "street":"Gandhi nagar",
+        "city":"Banglore",
+        "pincode":"35843"
+      },
+      "profession":"Student",
+      "mobileno":"9873539802"
+    },
+    {
+      "id":2,
+      "email":"barun@gmail.com",
+      "name":"Barun",
+      "profile":"https://betalab.tamu.edu/files/2015/09/BGB_Passport-Size-240x320.jpg",
+      "address":{"street":"sri nagar",
+        "city":"Mumbai",
+        "pincode":"38689"},
+      "profession":"Doctor",
+      "mobileno":"8873529802"
+    },
+    {
+      "id":3,
+      "email":"bhuvana@gmail.com",
+      "name":"Bhuvana",
+      "profile":"https://image.shutterstock.com/image-photo/passport-picture-laughing-african-businesswoman-260nw-239935516.jpg",
+      "address":{"street":"Nethagi nagar",
+        "city":"chennai",
+        "pincode":"87537"},
+      "profession":"Engineer",
+      "mobileno":"9987359802"
+    },
+    {
+      "id":4,
+      "email":"rama@gmail.com",
+      "name":"Rama",
+      "profile":"https://www.singemindia.com/wp-content/uploads/2019/06/Passport-Size-Pic.jpg",
+      "address":{"street":"park street",
+        "city":"Delhi",
+        "pincode":"65793"},
+      "profession":"Business",
+      "mobileno":"8987359802"
+    },
+    {
+      "id":5,
+      "email":"sanaya@gmail.com",
+      "name":"Sanaya",
+      "profile":"https://image.shutterstock.com/image-photo/passport-picture-businesswoman-brown-hair-260nw-250775908.jpg",
+      "address":{"street":"Mall road",
+        "city":"kolkata",
+        "pincode":"97355"},
+      "profession":"teacher",
+      "mobileno":"7567359802"
+    },
+    {
+      "id":6,
+      "email":"karthik@gmail.com",
+      "name":"Karthik",
+      "profile":"https://prod-c2i.s3.amazonaws.com/articles/15512560885c764a1840009.jpg",
+      "address":{"street":"jagadamba center",
+        "city":"Hyderabad",
+        "pincode":"84658"},
+      "profession":"sales man",
+      "mobileno":"9879899802"
+    },
+    {
+      "id":7,
+      "email":"kushi@gmail.com",
+      "name":"Kushi",
+      "profile":"http://shipboardtraining.com/resources/thumb-female.845dfe89.jpg",
+      "address":{"street":"MG road",
+        "city":"vijayawada",
+        "pincode":"936533"},
+      "profession":"Engineer",
+      "mobileno":"9873588502"
+    },
+    {
+      "id":8,
+      "email":"arnav@gmail.com",
+      "name":"Arnav",
+      "profile":"https://makepassportphoto.com/blog/wp-content/uploads/2019/12/61F3L7gCpBL._SX466_-258x300.jpg",
+      "address":{"street":"Balnagar",
+        "city":"Hyderabad",
+        "pincode":"98364"},
+      "profession":"Artist",
+      "mobileno":"7897359802"
+    },
+    {
+      "id":9,
+      "email":"vikram@gmail.com",
+      "name":"Vikram",
+      "profile":"https://www.justshowbiz.net/wp-content/uploads/2021/01/Vikram-Singh-Chauhan.jpg",
+      "address":{"street":"",
+        "city":"Luknow",
+        "pincode":"35345"},
+      "profession":"Actor",
+      "mobileno":"987359802"
+    },
+    {
+      "id":10,
+      "email":"anu@gmail.com",
+      "name":"Anu",
+      "profile":"https://www.jntukexams.net/images/pass.jpg",
+      "address":{"street":"Rajpat commercial street",
+        "city":"Pune",
+        "pincode":"86354"},
+      "profession":"Chef",
+      "mobileno":"7890359802"
+    }
+  ]
+  }

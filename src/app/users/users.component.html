@@ -1,0 +1,16 @@
+<div class="background mt-5 mb-5">
+    <table class="table text-center tab">
+
+        <thead class="tab">
+            <th>ID</th>
+            <th>EMAIL</th>
+        </thead>
+        <tbody >
+            <tr *ngFor="let uobj of users">
+            <td><button class="btn btn-sm tab" (click)="onSelectId(uobj.id)">{{uobj.id}}</button></td>
+            <td class="tab">{{uobj.email}}</td>
+            </tr>
+        </tbody>
+
+    </table>
+</div>

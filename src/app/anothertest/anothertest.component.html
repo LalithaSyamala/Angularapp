@@ -1,0 +1,49 @@
+<table class="table  text-center">
+    <thead>
+        <tr>
+            <th>page</th>
+            <th>per_page</th>
+            <th>total</th>
+            <th>total_pages</th>
+            <th>data
+                <table class="table text-center">
+                    <thead>
+                        <tr><th>id</th>
+                            <th></th>
+                            <th>name</th>
+                            <th></th>
+                            <th>year</th>
+                            <th></th>
+                            <th>color</th>
+                            <th></th>
+                            <th>pantone-value</th>
+                        </tr>
+                    </thead>
+                    
+                </table>
+            </th>
+        
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>{{users.page}}</td>
+            <td>{{users.per_page}}</td>
+            <td>{{users.total}}</td>
+            <td>{{users.total_pages}}</td>
+            <table class="table text-center">
+            <tbody>
+                <tr *ngFor="let obj of user">
+                    <td>{{obj.id}}</td>
+                   <td>{{obj.name}}</td>
+                  <td>{{obj.year}}</td>
+                   <td>{{obj.color}}</td>
+                   <td>{{obj.pantone-value}}</td> 
+
+               </tr> 
+           </tbody>
+        </table>
+        </tr>
+    </tbody>
+</table>
